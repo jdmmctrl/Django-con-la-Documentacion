@@ -3,3 +3,7 @@
 * venv\Scripts\activate
 * deactivate
 * pip install django
+* django-admin startproject myapp .
+* py manage.py runserver
+* py manage.py runserver 0.0.0.0:8000
+* py manage.py startapp polls
